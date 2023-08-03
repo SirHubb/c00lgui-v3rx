@@ -168,8 +168,8 @@ local title = Instance.new("TextLabel")
 	title.Size = UDim2.new(1,0,0,40)
 	title.ZIndex = 2
 	title.Font = tef
-	title.FontSize = "Size24"
-	title.Text = "c00lgui Reborn Rc7 by v3rx"
+	title.FontSize = "Size22"
+	title.Text = "c00lgui remade by sup3r"
 	title.TextColor3 = whit
 --           inside pages        --
 local acg = Instance.new("Frame")
@@ -177,7 +177,7 @@ local acg = Instance.new("Frame")
 	acg.BackgroundColor3 = blak
 	acg.BorderColor3 = rede
 	acg.BorderSizePixel = 3
-	acg.Name = "Admin Commands/Guis"
+	acg.Name = "Admin Commands/Gui"
 	acg.Position = UDim2.new(0.5,3,0,0)
 	acg.Size = UDim2.new(0.5,-3,1,0)
 	acg.ZIndex = 2
@@ -186,7 +186,7 @@ local sd = Instance.new("Frame")
 	sd.BackgroundColor3 = blak
 	sd.BorderColor3 = rede
 	sd.BorderSizePixel = 3
-	sd.Name = "Server Destruction"
+	sd.Name = "SERVER HAX"
 	sd.Position = UDim2.new(0,0,0,0)
 	sd.Size = UDim2.new(0.5,-3,1,0)
 	sd.ZIndex = 2
@@ -29565,11 +29565,11 @@ button = Instance.new("TextButton")
 	button.ZIndex = 2
 	button.Font = tef
 	button.FontSize = "Size14"
-	button.Text = "Chop Suey"
+	button.Text = "idk2"
 	button.TextColor3 = whit
 	button.TextWrapped = true
 	button.MouseButton1Down:connect(function()
-		frame.Settings.Page1["Music ID"].TextBox.Text = 147407900
+		frame.Settings.Page1["Music ID"].TextBox.Text = 8961503928
 	end)
 --
 button = Instance.new("TextButton")
@@ -29583,11 +29583,11 @@ button = Instance.new("TextButton")
 	button.ZIndex = 2
 	button.Font = tef
 	button.FontSize = "Size14"
-	button.Text = "Electro Sp00k"
+	button.Text = "idk1"
 	button.TextColor3 = whit
 	button.TextWrapped = true
 	button.MouseButton1Down:connect(function()
-	frame.Settings.Page1["Music ID"].TextBox.Text = 142930454	
+	frame.Settings.Page1["Music ID"].TextBox.Text = 8888216980	
 	end)
 --
 button = Instance.new("TextButton")
@@ -29601,11 +29601,11 @@ button = Instance.new("TextButton")
 	button.ZIndex = 2
 	button.Font = tef
 	button.FontSize = "Size14"
-	button.Text = "Scream"
+	button.Text = "Arab"
 	button.TextColor3 = whit
 	button.TextWrapped = true
 	button.MouseButton1Down:connect(function()
-	frame.Settings.Page1["Music ID"].TextBox.Text = 138097458	
+	frame.Settings.Page1["Music ID"].TextBox.Text = 7019388713	
 	end)
 --
 button = Instance.new("TextButton")
@@ -29619,11 +29619,11 @@ button = Instance.new("TextButton")
 	button.ZIndex = 2
 	button.Font = tef
 	button.FontSize = "Size14"
-	button.Text = "Wonga"
+	button.Text = "TubersMoan"
 	button.TextColor3 = whit
 	button.TextWrapped = true
 	button.MouseButton1Down:connect(function()
-	frame.Settings.Page1["Music ID"].TextBox.Text = 147909316	
+	frame.Settings.Page1["Music ID"].TextBox.Text = 7083210943	
 	end)
 --
 button = Instance.new("TextButton")
@@ -30476,7 +30476,7 @@ local sdi = Instance.new("Frame")
 		textbx.Size = UDim2.new(0.99,1,0.5,-1)
 		textbx.Font = tef
 		textbx.FontSize = "Size14"
-		textbx.Text = "1"
+		textbx.Text = "2"
 		textbx.TextColor3 = whit
 	local titl = Instance.new("TextLabel")
 		titl.Parent = mp
@@ -30499,7 +30499,7 @@ local sdi = Instance.new("Frame")
 		textbx.Size = UDim2.new(0.99,1,0.5,-1)
 		textbx.Font = tef
 		textbx.FontSize = "Size14"
-		textbx.Text = "142930454"
+		textbx.Text = "7019388713"
 		textbx.TextColor3 = whit
 	local titl = Instance.new("TextLabel")
 		titl.Parent = mid
@@ -30545,7 +30545,7 @@ local sdi = Instance.new("Frame")
 		textbx.Size = UDim2.new(0.99,1,0.5,-1)
 		textbx.Font = tef
 		textbx.FontSize = "Size14"
-		textbx.Text = "c00lkidd"
+		textbx.Text = "sup3rk1dd
 		textbx.TextColor3 = whit
 	local titl = Instance.new("TextLabel")
 		titl.Parent = bgt
@@ -30785,7 +30785,7 @@ local textbx = Instance.new("TextBox")
 		textbx.Size = UDim2.new(0.99,1,0.5,-1)
 		textbx.Font = tef
 		textbx.FontSize = "Size14"
-		textbx.Text = "join team c00lkidd!"
+		textbx.Text = "join team sup3rk1dd!"
 		textbx.TextColor3 = whit
 	local titl = Instance.new("TextLabel")
 		titl.Parent = cst
@@ -30868,7 +30868,7 @@ local textbxx = Instance.new("TextBox",nmb)
 		textbxx.Size = UDim2.new(0.99,1,0.5,-1)
 		textbxx.Font = tef
 		textbxx.FontSize = "Size14"
-		textbxx.Text = "God"
+		textbxx.Text = "Sup3rk1dd
 		textbxx.TextColor3 = whit
 
 local button = Instance.new("TextButton")
